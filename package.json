@@ -14,9 +14,7 @@
   "license": "ISC",
   "description": "Create components, services, guards, etc. with simple commands.",
   "dependencies": {
-    "camel-case": "^4.1.2",
-    "camelcase": "^7.0.1",
-    "pascalcase": "^2.0.0"
+    "camel-case": "^4.1.2"
   },
   "bin": {
     "rbg": "index.js"
