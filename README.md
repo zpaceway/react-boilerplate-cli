@@ -7,7 +7,7 @@ npm CLI tool created to help you automate the creation of your components in rea
 first, install the tool by running
 
 ```
-npm i -g react-boilerplate-cli
+npm i -g @zpaceway/react-boilerplate-cli
 ```
 
 Then you can run:
